@@ -1,4 +1,3 @@
-#geeta di data
 
 '''
 dataset looks like this: 
